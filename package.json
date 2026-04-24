@@ -1,6 +1,6 @@
 {
   "name": "hermes-admin",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "Hermes Admin Dashboard - A modern web UI for managing Hermes AI agent",
   "bin": {
     "hermes-admin": "./bin/hermes-admin.js"
